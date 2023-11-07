@@ -19,7 +19,7 @@ Two (2) datasets, for the model, were downloaded and used.
 **Wednesday, November 1st, 2023:** Further work on the model and implement its logic.
 
 Having worked on the first steps of the model, the next task is implement the logic of the model.
-In brief, find how many columns are used on each dataset *[on both their CSV and XLS format(s)]* , in order for us to assign each classification
+In brief, find how many columns are used on each dataset *[on both their CSV and XLS format(s)]* , in order for us to assign classification for each column on both datasets.
 
 # Where can I find files?
 
