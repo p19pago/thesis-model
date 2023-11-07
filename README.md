@@ -11,6 +11,7 @@ The topic I have chosen for my thesis, is develop a Decision Support System (DSS
 **Tuesday, October 24th, 2023:** Introduction to thesis. Download and use two (2) datasets
 
 For the first check-point of my thesis experiment, an introduction was made on Decision Support Systems. 
+
 Two (2) datasets, for the model, were downloaded and used.
 
   * one, from the [Kaggle official website](https://kaggle.com)
