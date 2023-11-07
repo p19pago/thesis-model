@@ -22,3 +22,5 @@ Having worked on the first steps of the model, the next task is implement the lo
 In brief, find how many columns are used on each dataset *[on both their CSV and XLS format(s)]* , in order for us to assign each classification
 
 # Where can I find files?
+
+Each
