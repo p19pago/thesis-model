@@ -4,7 +4,7 @@ A repository where I will share my progress out of my experiment, as part of my 
 
 ## About
 
-The topic I have chosen for my thesis, is develop a Decision Support System (DSS) and mobile application on Breast Cancer diagnoses.
+The topic I have chosen for my thesis, is develop a **Decision Support System (DSS)** and **mobile application** on Breast Cancer diagnoses.
 
 ## Progress
 
@@ -19,10 +19,14 @@ Two (2) datasets, for the model, were downloaded and used.
 
 **Wednesday, November 1st, 2023:** Further work on the model and implement its logic.
 
+### This is the second checkpoint.
+
 Having worked on the first steps of the model, the next task is implement the logic of the model.
 In brief, find how many columns are used on each dataset *[on both their CSV and XLS format(s)]* and classification to be assigned, for each column, on both datasets.
 
 Describing and taking notes on each dataset's contents, I realized each dataset, ought to be analyzed, one by one.
+
+**Sunday, November 12th, 2023:** Select which datasets should be split into training and testing sets.
 
 # Where can I find files?
 
