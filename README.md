@@ -71,7 +71,7 @@ Let alone it was effective enough to have a detailed image on the amount of diag
 
 ### Modules & Extras Import
 
-For 
+For the procedures of training-testing, classification, feature elimination and subset selection, 
 
 
 # Where can I find files?
