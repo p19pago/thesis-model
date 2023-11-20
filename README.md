@@ -71,7 +71,12 @@ Let alone it was effective enough to have a detailed image on the amount of diag
 
 ### Modules & Extras Import
 
-For the procedures of training-testing, classification, feature elimination and subset selection, 
+For the procedures of training-testing, classification, feature elimination and subset selection, I used additional sub-modules to import them on my code files.
+
+* Training and Testing Procedure
+
+      For the training and testing procedure, I imported the train_test_split sub-module from the
+      scikit-learn package and the model_selection module.
 
 
 # Where can I find files?
