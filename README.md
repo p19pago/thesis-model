@@ -8,7 +8,7 @@ The topic I have chosen for my thesis, is develop a **Decision Support System (D
 
 # Progress
 
-**Tuesday, October 24th, 2023:** Introduction to thesis. Download and use two (2) datasets
+**Tuesday, October 24th, 2023:** Introduction to thesis. Download and use two (2) datasets.
 
 ## This is the first checkpoint.
 
@@ -107,7 +107,10 @@ Same procedure was done for the shape of the x1 variable, which was used as a tr
 Having performed a train-test process on the dataset, the next step was to perform a K-fold cross validation.
 In this case, the K value will be set to 10 for more efficient results.
 
+Out of the available K-fold cross-validation methods, the best option was, perform a stratified K-fold cross validation.
+It represents the partitions are selected, so that the mean response value is approximately equal in all the partitions.
 
+This appeals to both datasets; each one performed that way.
 
 # Where can I find files?
 
