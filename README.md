@@ -108,7 +108,7 @@ Having performed a train-test process on the dataset, the next step was to perfo
 In this case, the K value will be set to 10 for more efficient results.
 
 Out of the available K-fold cross-validation methods, the best option was, perform a stratified K-fold cross validation.
-It represents the partitions are selected, so that the mean response value is approximately equal in all the partitions.
+It represents the selection of partition inside each dataframe, so that the mean response value is approximately equal in all the partitions.
 
 This appeals to both datasets; each one performed that way.
 
