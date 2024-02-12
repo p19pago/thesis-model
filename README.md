@@ -1,6 +1,6 @@
-A repository where I will share my progress out of my experiment, as part of my thesis for the academic year of 2023-2024.
-
 # About
+
+A repository where I will share my progress out of my experiment, as part of my thesis for the academic year of 2023-2024.
 
 The topic I have chosen for my thesis, is develop a **Decision Support System (DSS)** and **mobile application** on Breast Cancer diagnoses.
 
