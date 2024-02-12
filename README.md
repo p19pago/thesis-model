@@ -1,5 +1,3 @@
-## thesis-dss
-
 A repository where I will share my progress out of my experiment, as part of my thesis for the academic year of 2023-2024.
 
 # About
